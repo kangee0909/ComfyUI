@@ -24,6 +24,8 @@ NODES=(
     "https://github.com/TinyTerra/ComfyUI_tinyterraNodes"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    #"https://github.com/kijai/ComfyUI-CogVideoXWrapper"
 )
 
 CHECKPOINT_MODELS=(
