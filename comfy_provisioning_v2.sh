@@ -21,6 +21,8 @@ PIP_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/TinyTerra/ComfyUI_tinyterraNodes"
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
 )
 
 CHECKPOINT_MODELS=(
