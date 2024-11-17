@@ -75,7 +75,7 @@ LORA_MODELS=(
 
     #Art Nouveau Style https://civitai.com/models/182980/art-nouveau-style trigger:art nouveau, alphonse mucha, ivan bilibin
     "https://civitai.com/api/download/models/875868?type=Model&format=SafeTensor"
-    "https://civitai.com/models/779878/pre-historic-cave-paintings"
+    "https://civitai.com/api/download/models/872200?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
